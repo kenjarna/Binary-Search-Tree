@@ -1,6 +1,6 @@
 # Data-Structures-Projects
-# Hanover College
-# Winter 2017 Semester
+# Hanover College, Winter 2017
+# Binary-Search Tree
 
 Combining and executing these files will create a node (integer data values) binary-search tree that can insert, and determine
 if the tree contains the search parameter. Additionally, this program will determine the height and size of the tree while also allowing
